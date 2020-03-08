@@ -1,0 +1,13 @@
+[2020-03-04 16:56:50:1110][main] INFO  j.p.mysqltest.MysqlTestApplication - Starting MysqlTestApplication on gimjinseon-ui-MacBook-Pro.local with PID 86382 (/Users/jinseonkim/IdeaProjects/spring-mysql/build/classes/java/main started by jinseonkim in /Users/jinseonkim/IdeaProjects/spring-mysql)
+[2020-03-04 16:56:50:1117][main] INFO  j.p.mysqltest.MysqlTestApplication - No active profile set, falling back to default profiles: default
+[2020-03-04 16:56:52:3685][main] INFO  j.p.mysqltest.MysqlTestApplication - Started MysqlTestApplication in 3.424 seconds (JVM running for 4.715)
+[2020-03-04 17:00:21:672][main] INFO  j.p.mysqltest.MysqlTestApplication - Starting MysqlTestApplication on gimjinseon-ui-MacBook-Pro.local with PID 86393 (/Users/jinseonkim/IdeaProjects/spring-mysql/build/classes/java/main started by jinseonkim in /Users/jinseonkim/IdeaProjects/spring-mysql)
+[2020-03-04 17:00:21:674][main] INFO  j.p.mysqltest.MysqlTestApplication - No active profile set, falling back to default profiles: default
+[2020-03-04 17:00:23:2402][main] INFO  j.p.mysqltest.MysqlTestApplication - Started MysqlTestApplication in 2.134 seconds (JVM running for 3.37)
+[2020-03-04 17:00:23:2404][main] INFO  j.p.m.manager.CacheManagerCheck - 
+
+=========================================================
+Using cache manager: org.springframework.cache.concurrent.ConcurrentMapCacheManager
+=========================================================
+
+
